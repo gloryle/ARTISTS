@@ -1,0 +1,2 @@
+# ARTISTS
+project for kosa
